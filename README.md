@@ -1,6 +1,6 @@
 # LangChain Azure OpenAI Collision - Bug Report
 
-See LandChain issue:
+See LandChain issue: [4951](https://github.com/langchain-ai/langchainjs/issues/4951)
 
 ## Steps to Reproduce
 
